@@ -5,7 +5,6 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 
 def display_board(board)
- name = gets.chomp
  
  if board = [" "," "," "," "," "," "," "," "," "]
  
