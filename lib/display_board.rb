@@ -14,16 +14,10 @@ def display_board(board)
   puts "-----------"
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
  
- elsif board = [" "," "," "," "," X "," "," "," "," "]
+ elsif 
+ puts board = [" "," "," "," "," X "," "," "," "," "]
 
-  puts " #{board[0]} | #{board[1]} | #{board[2]} "
-  puts "-----------"
-  puts " #{board[3]} | #{board[4]} |  X          "
-  puts "-----------"
-  puts " #{board[6]} | #{board[7]} | #{board[8]} "
- 
-
-end 
+  
 end 
 
 
