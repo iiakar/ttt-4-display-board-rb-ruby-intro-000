@@ -24,6 +24,7 @@ def display_board(board)
  
 
 end 
+end 
 
 
  #puts rows[0] = ("   |   |   ")
